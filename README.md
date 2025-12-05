@@ -19,7 +19,7 @@ This tutorial is made for:
 2. [Why Ad Blockers Matter](./02-ad-blockers.md)
 3. [How VPNs Work](./03-vpns.md)
 4. [Password Managers & MFA](./04-passwords-mfa.md)
-5. [Recognizing threats](./05-toolkit.md)
+5. [Recognizing threats](./05-recognizing-threats.md)
 
 
  
