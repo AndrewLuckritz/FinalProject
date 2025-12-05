@@ -33,8 +33,8 @@ Even on reputable websites, ads may:
 - Trigger scam pop-ups  
 
 ### Why It's Dangerous
-Attackers purchase ad space cheaply and inject malicious code. You don’t even need to *click* the ad—  
-**some malicious ads can infect systems just by loading on the page.**
+Attackers purchase ad space cheaply and inject malicious code. You don’t even need to *click* the ad.  
+**Some malicious ads can infect systems just by loading on the page.**
 
 This is why ad blockers dramatically increase safety.
 
@@ -63,15 +63,15 @@ Phishing remains the #1 cause of data breaches globally.
 They often appear as fake emails or fake login pages.
 
 ## 4. Unsecure Networks
-Public Wi-Fi—like in airports, hotels, or coffee shops—is one of the most common sources of digital risk.
+Public WiFi, like in airports, hotels, or coffee shops—is one of the most common sources of digital risk.
 
-### Why Public Wi-Fi Is Dangerous
+### Why Public WiFi Is Dangerous
 Attackers on the same network can:
 - Intercept unencrypted traffic  
 - See visited websites  
 - Steal login credentials  
 - Inject malicious content into pages  
-- Set up a fake Wi-Fi hotspot and impersonate real ones  
+- Set up a fake WiFi hotspot and impersonate real ones  
 
 
 ## 5. Malware

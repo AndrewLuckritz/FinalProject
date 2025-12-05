@@ -47,7 +47,7 @@ Trackers monitor:
 Ad blockers stop the request before it loads, meaning:
 - No tracker receives your data  
 - No tracking cookies are placed  
-- Profile-building is greatly reduced  
+- Profile building is greatly reduced  
 
 ### Why This Matters  
 Tracking can lead to:
@@ -62,15 +62,15 @@ Ad blockers significantly reduce this risk.
 ---
 
 ## 3. Blocking Malicious Ads ("Malvertising")
-One of the biggest security benefits is protection from **malvertising** — ads that deliver malware.
+One of the biggest security benefits is protection from **malvertising** ads that deliver malware.
 
 ### What Malvertising Can Do
 Malicious ads can:
 - Redirect you to phishing sites  
 - Trigger fake “virus” pop-ups  
-- Force-download malware  
+- Force download malware  
 - Display fake update prompts  
-- Trigger drive-by downloads  
+- Trigger drive by downloads  
 
 Shockingly, malicious ads **often appear on legitimate websites** because attackers buy cheap ad space or compromise ad networks.
 

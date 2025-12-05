@@ -21,7 +21,7 @@ This process:
 2. The VPN encrypts your internet traffic.  
 3. The encrypted data travels through a secure tunnel.  
 4. The VPN server sends the traffic to the website you are visiting.  
-5. The website only sees the VPN server’s IP address—not yours.
+5. The website only sees the VPN server’s IP address, not yours.
 
 The result is a safer and more private browsing experience.
 
@@ -29,8 +29,8 @@ The result is a safer and more private browsing experience.
 
 ## 3. Why People Use VPNs
 
-### Security on Public Wi-Fi  
-Public networks—like in airports, hotels, or coffee shops—are not always secure. A VPN keeps your information safe by encrypting everything you send or receive.
+### Security on Public WiFi  
+Public networks, like in airports, hotels, or coffee shops are not always secure. A VPN keeps your information safe by encrypting everything you send or receive.
 
 ### Added Privacy at Home  
 A VPN prevents your internet provider from easily seeing what websites you visit.
@@ -45,7 +45,7 @@ Some streaming services or websites restrict content based on location. A VPN al
 
 ## 4. Everyday Example
 
-Imagine you connect to free Wi-Fi at a hotel. Without protection, someone on the same network could try to watch your traffic.
+Imagine you connect to free WiFi at a hotel. Without protection, someone on the same network could try to watch your traffic.
 
 With a VPN:
 - Your data is encrypted  
@@ -58,7 +58,7 @@ This is why VPNs are strongly recommended for travel and public hotspots.
 
 ## 5. Trusted VPN Options
 
-Here are some well-regarded providers that focus on security and privacy:
+Here are some well regarded providers that focus on security and privacy:
 
 - **Mullvad**  
 - **ProtonVPN**  
@@ -74,7 +74,7 @@ The only downside to VPN's is these service often cost money (usually subscripti
 
 A VPN is a simple but powerful tool that:
 - Encrypts your internet traffic  
-- Protects you on public Wi-Fi  
+- Protects you on public WiFi  
 - Hides your IP address  
 - Helps maintain privacy online  
 
